@@ -1,0 +1,4 @@
+This is what blank html looks like. Every html file has this at a bare minimum.
+
+All of your html documents will require this template. You can either copy and paste it,
+or you can type html:5 in VSCode and it will autocomplete it for you.

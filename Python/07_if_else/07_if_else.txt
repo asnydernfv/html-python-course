@@ -1,0 +1,17 @@
+You can use if, or if/else statements to perform logic if it meets a condition like true or false.
+Any logic that runs because of the statement needs to be indented.
+
+Example:
+animals = ["cat", "dog", "fish", "iguana", "deer"]
+
+if "cat" in animals:
+    print("Cat is in the list!")
+if "dog" in animals:
+    print("Dog is in the list!")
+print("You do not have to have and else statement!")
+
+
+if "cat" in animals:
+    print("Cat is in the list!")
+else:
+    print("Cat is not in the list!")

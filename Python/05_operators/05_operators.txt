@@ -1,0 +1,17 @@
+You can also do math in python with the operators below
+
+Operator	Name	        Example
++	        Addition	    x + y	
+-	        Subtraction	    x - y	
+*	        Multiplication	x * y	
+/	        Division	    x / y	
+%	        Modulus	        x % y	
+**	        Exponentiation	x ** y	
+//	        Floor division	x // y
+
+Modulus returns the remainder value after division.
+    14%3 = 12/3 with Remainder of 2. Would return 2.
+    10%2 = 10/2 No remainder. Would return 0.
+Floor Divides two numbers, and if the result is a float, it rounds down to the nearest integer.
+    10//4 = 2 because 10/4 = 2.5
+    10//6 = 1 because 10/6 = 1.67

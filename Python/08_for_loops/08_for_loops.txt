@@ -1,0 +1,6 @@
+You can use For loops to iterate, or go over items in a list, one by one.
+
+transportation = ["car", "bus", "bike", "plane"]
+
+for item in transportation:
+    print(item)

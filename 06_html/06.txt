@@ -1,0 +1,24 @@
+Tables:
+Tables can be used to organize data. They can have multiple rows and columns.
+
+Tables can be defines with the <table> tag.
+Inside of the <table> tag will be <tr>, or table row tags.
+The first row typically contains <th> or table header.
+The following rows will contain <td> or table data. Here's an example.
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>

@@ -1,0 +1,13 @@
+Stylizing text in html is pretty simple. You can use the following to change
+how text is displayed.
+
+<b> - Bold text
+<strong> - Important text Same as <b>
+<i> - Italic text
+<em> - Emphasized text Same as <em>
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text

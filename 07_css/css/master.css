@@ -1,0 +1,7 @@
+p {
+    color: red;
+    /* This is a single line comment */
+    /* This is a
+    multi-line Comment */
+    text-align: center;
+}

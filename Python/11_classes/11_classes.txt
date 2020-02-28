@@ -1,0 +1,14 @@
+Classes are similar to functions, but also completely different. Classes are templates of data that can have their own sets of functions called methods. You've seen them already, you just didn't know it.
+Below is an example of a class.
+
+class Person(object):
+    species = 'Homo sapiens'
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+    def talk(self):
+        return f"Hello, my name is {self.name}, and I am {self.age} years old"
+
+
+Classes can also inherit from each other. The above Person class is inheriting from the object class.
+

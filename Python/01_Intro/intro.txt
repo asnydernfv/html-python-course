@@ -1,0 +1,7 @@
+Python is a programming language based on C.
+
+Ends in .py file extesion
+
+Commonly used for webservers, automation, games.
+
+We will make a game.

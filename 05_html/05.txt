@@ -1,0 +1,10 @@
+You can place comments in your html. They won't be displayed to the user.
+But, you can use them for your own reference.
+
+
+They look like:
+<!-- This is a comment -->
+
+You can use them for notes, or to hide code for debugging. The shortcut in VSCode is:
+
+Command + /

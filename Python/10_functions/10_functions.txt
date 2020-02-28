@@ -1,0 +1,7 @@
+Functions are modular ways of performaing tasks. They help keep code organized, and reusable. Reusable code is important to make maintaining it simple. Using functions also help stop you from repeating yourself. Remember, keep your code DRY.
+
+def capitalize(word):
+    new_word = word[:1].upper() + word[1:]
+    return new_word
+
+print(capitalize('hello'))

@@ -1,0 +1,8 @@
+We will start by covering HTML which stands for HyperText Markup Language.
+
+It is NOT a Programming Language. It simply tells your browser how to display
+items in your browser, similar to Microsoft Word or Google Docs.
+
+Later on we'll start adding in CSS to start making our content look nice,
+and then we'll add in some more advanced features with some JavaScript. JavaScript
+is a programming language that can run natively in your browser.
